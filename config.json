@@ -1,0 +1,27 @@
+{
+    "token": "process.env.TOKEN",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/956654350510469131/BxQkf71iSxFt-Jy9WjtuZZPZIlK2nI2398h5i48sn5IXFYL7C-kfvT6re7CJhUpPw7gq": {
+            "url": "https://www.vinted.fr/vetements?search_text=nike&search_id=4873588592&size_id[]=208&price_to=10&currency=EUR&brand_id[]=53&catalog[]=79&order=newest_first",
+            "salon": "nike"
+        },
+        "https://discord.com/api/webhooks/956662485753159710/4IayB-ggV_-oyYrYxSw7Ps4lruihT2gsikyfQns--nwGKhJUQtl_bGy1m6GfqWO2FRT5": {
+            "url": "https://www.vinted.fr/vetements?search_text=&size_id[]=208&brand_id[]=362&price_to=20&currency=EUR&order=newest_first&catalog[]=34&catalog[]=77&catalog[]=79",
+            "salon": "carhartt"
+        },
+        "https://discord.com/api/webhooks/956663253176569926/8qjDb3akrMadPfppZTUx6rX7Onc4a_8NsO9tdkzqqwYmHwNBTBFNW49UPn4xU0t8FBmX": {
+            "url": "https://www.vinted.fr/vetements?search_text=&currency=EUR&order=newest_first&size_id[]=208&brand_id[]=88&price_to=40&catalog[]=34&catalog[]=77&catalog[]=79",
+            "salon": "ralph-lauren"
+        },
+        "https://discord.com/api/webhooks/957368060275204166/A3ObFyUljW6r8JPXbQazwMEeKRKGLbx1GrSMrClZ7Hjs_C7PG-rwCDY8fJPtF9kcyGkP": {
+            "url": "https://www.vinted.fr/vetements?search_text=&size_id[]=208&price_to=15&currency=EUR&brand_id[]=304&catalog[]=76&catalog[]=79&order=newest_first",
+            "salon": "lacoste"
+        },
+        "https://discord.com/api/webhooks/957368385602195516/COdheeoMO6r23_foEV_A0nPDfyOhCk4LT9iROvZJ-vwiKWr3UHBB7MVsSOjS3qq8NR4b": {
+            "url": "https://www.vinted.fr/vetements?search_text=&currency=EUR&order=newest_first&brand_id[]=319730&price_to=150&size_id[]=208&catalog[]=2051&catalog[]=1206",
+            "salon": "arcteryx"
+        }
+    }
+}
